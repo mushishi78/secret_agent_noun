@@ -21,7 +21,7 @@ module SecretAgentNoun
     end
 
     def inverse_lookup
-      @inverse_lookup ||= yaml_file.invert
+      @inverse_lookup ||= lookup.invert
     end
 
     def normalize(input)
