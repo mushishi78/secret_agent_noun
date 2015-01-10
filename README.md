@@ -1,5 +1,7 @@
 # Secret Agent Noun
 
+[![Gem Version](https://badge.fury.io/rb/secret_agent_noun.svg)](http://badge.fury.io/rb/secret_agent_noun)
+
 Verb to agent noun inflector.
 
 ## Usage
